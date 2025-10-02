@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Davide<br><br>I'm a 20-year-old Bachelor's student in **Computer Engineering** at the University of Florence.  <br>I'm passionate about software development, algorithms, and data structures, and I enjoy applying what I learn to practical projects.  <br><br>Outside of coding, one of my biggest hobbies is **Formula 1 🏎️**.
+👋 Hi, I'm Davide<br><br>I'm a 20-year-old Bachelor's student in **Computer Engineering** at the University of Florence.  <br>I'm passionate about software development, algorithms, and data structures, and I enjoy applying what I learn to practical projects.  <br><br>Outside of coding, one of my biggest hobbies is **Formula 1 🏎️**.
 
 
 # 💻 Tech Stack:
